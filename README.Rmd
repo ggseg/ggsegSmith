@@ -18,11 +18,12 @@ knitr::opts_chunk$set(
 # ggsegSmith <img src='man/figures/logo.png' align="right" height="138.5" />
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/ggseg/ggsegSmith/workflows/R-CMD-check/badge.svg)](https://github.com/ggseg/ggsegSmith/actions)
 <!-- badges: end -->
 
-This package contains dataset for plotting the [smith](add url here) atlas ggseg and ggseg3d. 
+This package contains dataset for plotting the Smith 1907 historical atlas of functional segregation with ggseg and ggseg3d,  based on the supplementary materials of Pijnenburg et al., NeuroImage, 239, 2021 [DOI](https://doi.org/10.1016/j.neuroimage.2021.118274); Version 1; 15-01-2021. 
 
-Add reference here.
+G.E. Smith; A new topographical survey of the human cerebral cortex, being an account of the distribution of the anatomically distinct cortical areas and their relationship to the cerebral sulci; J. Anat. Physiol., 41 (Pt 4) (1907), p. 237
 
 To learn how to use these atlases, please look at the documentation for [ggseg](https://ggseg.github.io/ggseg/) and [ggseg3d](https://ggseg.github.io/ggseg3d)
 
